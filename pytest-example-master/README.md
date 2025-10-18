@@ -10,6 +10,9 @@ This example comes with several test files (e.g. test_app.py, test_funcs.py, etc
 
 ![Pytest Output](https://github.com/ptracesecurity/pytest-example/blob/media/pytest_output.png)
 
+# Triggering GitHub Actions workflow
+
+
 
 
 ## Code Structure
